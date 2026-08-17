@@ -63,8 +63,8 @@ This project combines computer vision and drone control to create an autonomous 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tonytyler99/VTOL-UAV-PROJECT.git
-   cd VTOL-UAV-PROJECT
+   git clone https://github.com/bkabaagac/autonomous-uav-human-tracking.git
+   cd autonomous-uav-human-tracking
    ```
 
 
